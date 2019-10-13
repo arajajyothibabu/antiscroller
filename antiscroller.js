@@ -25,7 +25,7 @@
                 + "-moz-box-shadow:0 0 1px #fff;box-shadow:0 0 1px #fff;position:absolute;opacity:0;"
                 + "-webkit-transition:linear .3s opacity;-moz-transition:linear .3s opacity;"
                 + "-o-transition:linear .3s opacity}",
-                ".antiscroll-scrollbar-shown{opacity:1,filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=100);}",
+                ".antiscroll-scrollbar-shown{opacity:1;filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=100);}",
                 ".antiscroll-scrollbar-horizontal{height:7px;margin-left:2px;bottom:2px;left:0}",
                 ".antiscroll-scrollbar-vertical{width:7px;margin-top:2px;right:2px;top:0}",
                 ".antiscroll-inner{overflow:scroll}",
