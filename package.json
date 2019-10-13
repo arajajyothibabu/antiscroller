@@ -1,0 +1,24 @@
+{
+  "name": "antiscroller",
+  "version": "1.0.0",
+  "description": "OS X Lion style cross-browser native scrolling on the web.",
+  "main": "antiscroller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arajajyothibabu/antiscroller.git"
+  },
+  "keywords": [
+    "scroll",
+    "antiscroll",
+    "osx"
+  ],
+  "author": "Jyothi Babu Araja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arajajyothibabu/antiscroller/issues"
+  },
+  "homepage": "https://github.com/arajajyothibabu/antiscroller#readme"
+}
